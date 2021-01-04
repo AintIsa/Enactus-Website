@@ -1,7 +1,7 @@
 # Enactus-Website
 here, I have several version of the project, the one we need is called latest_en
 
-# find the live-demo of the project:
+## Find the live-demo of the project:
 https://auca-enactus.herokuapp.com/
 
 ### Steps to run the projects
